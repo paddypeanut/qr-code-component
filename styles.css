@@ -10,6 +10,10 @@ body {
     font-size: 15px;
 }
 
+main {
+    height:100%;
+}
+
 #container {
     height: 100%;
     display: flex;
@@ -48,7 +52,7 @@ body {
     padding: 0 16px;
 }
 
-.content-container h2 {
+.content-container h1 {
     color: var(--primary);
     font-size:1.4rem;
     font-weight: 700;
